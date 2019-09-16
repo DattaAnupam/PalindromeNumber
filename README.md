@@ -9,6 +9,7 @@ Header files used:
   stdlib.h, stdio.h, string.h
 Built in functions used: 
   strlen(), malloc(), strcpy(), strrev(), strcmpi(), printf(), scanf()
+
 strlen(): To find the length of the input string.
 
 malloc(): To allocate memory dynamically.
