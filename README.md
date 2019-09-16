@@ -16,3 +16,6 @@ strrev(): To reverse the string.
 strcmpi(): To compare two strings, case insensitive (i.e. 'A' and 'a' are treated as same)
 printf(): For console output.
 scanf(): For user input.
+
+
+.exe file is also uploaded so anyone can run the file by double clicking on the .exe file only, no need to open .c file.
