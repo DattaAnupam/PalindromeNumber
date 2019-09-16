@@ -10,11 +10,17 @@ Header files used:
 Built in functions used: 
   strlen(), malloc(), strcpy(), strrev(), strcmpi(), printf(), scanf()
 strlen(): To find the length of the input string.
+
 malloc(): To allocate memory dynamically.
+
 strcpy(): To copy one string into another.
+
 strrev(): To reverse the string.
+
 strcmpi(): To compare two strings, case insensitive (i.e. 'A' and 'a' are treated as same)
+
 printf(): For console output.
+
 scanf(): For user input.
 
 
